@@ -5,3 +5,5 @@
 2. AUC-ROC curve is a performance measurement for the classification problems at various threshold settings. ROC is a probability curve and AUC represents the degree or measure of separability. It tells how much the model is capable of distinguishing between classes. Higher the AUC, the better the model.
 AUC is a good metric, espacially in ranking senario.
 In addition, MCC is also a good evaluation metric here coz it performs well at imbalanced datasets.
+
+3. Unfortunately, I can not get into the top 100 of the private leaderboard. My best private score is 0.86447, which ranked 317.
