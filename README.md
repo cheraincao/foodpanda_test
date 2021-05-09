@@ -7,3 +7,5 @@ AUC is a good metric, espacially in ranking senario.
 In addition, MCC is also a good evaluation metric here coz it performs well at imbalanced datasets.
 
 3. Unfortunately, I can not get into the top 100 of the private leaderboard. My best private score is 0.86447, which ranked 317.
+
+4. Other questions like business insights and Data preliminary analysis can be found in my code.
